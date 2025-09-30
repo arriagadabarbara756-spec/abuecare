@@ -6,6 +6,7 @@ Este proyecto es una aplicación diseñada para facilitar el cuidado de personas
 
 El cuidador puede programar recordatorios con alarmas para que la persona dependiente reciba notificaciones sobre:
 
+
 💊 Toma de medicamentos
 
 🏥 Citas médicas
@@ -22,11 +23,13 @@ Confirmación de acciones (ej: “medicamento tomado”).
 
 Historial de cumplimiento para el seguimiento del cuidador.
 
+
 👥 Usuarios principales:
 
 Cuidador: configura y gestiona los recordatorios.
 
 Persona dependiente: recibe las alarmas y confirma su cumplimiento.
+
 
 🎯 Objetivo del proyecto:
 
