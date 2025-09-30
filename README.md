@@ -2,9 +2,9 @@
 
 App de Recordatorios con Alarmas
 
-   Este proyecto es una aplicación diseñada para facilitar el cuidado de personas mayores o en situación de dependencia.
+Este proyecto es una aplicación diseñada para facilitar el cuidado de personas mayores o en situación de dependencia.
 
-   El cuidador puede programar recordatorios con alarmas para que la persona dependiente reciba notificaciones sobre:
+El cuidador puede programar recordatorios con alarmas para que la persona dependiente reciba notificaciones sobre:
 
 💊 Toma de medicamentos
 
@@ -14,23 +14,23 @@ App de Recordatorios con Alarmas
 
 ✨ Características principales:
 
-   Programación sencilla de recordatorios.
+Programación sencilla de recordatorios.
 
-   Alarmas claras y accesibles para la persona dependiente.
+Alarmas claras y accesibles para la persona dependiente.
 
-   Confirmación de acciones (ej: “medicamento tomado”).
+Confirmación de acciones (ej: “medicamento tomado”).
 
-   Historial de cumplimiento para el seguimiento del cuidador.
+Historial de cumplimiento para el seguimiento del cuidador.
 
 👥 Usuarios principales:
 
-   Cuidador: configura y gestiona los recordatorios.
+Cuidador: configura y gestiona los recordatorios.
 
-   Persona dependiente: recibe las alarmas y confirma su cumplimiento.
+Persona dependiente: recibe las alarmas y confirma su cumplimiento.
 
 🎯 Objetivo del proyecto:
 
-   Brindar tranquilidad y confianza al cuidador, y autonomía y seguridad a la persona dependiente.
+Brindar tranquilidad y confianza al cuidador, y autonomía y seguridad a la persona dependiente.
 
 # Integrantes
 
