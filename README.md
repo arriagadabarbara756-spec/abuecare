@@ -37,7 +37,7 @@ Brindar tranquilidad y confianza al cuidador, y autonomía y seguridad a la pers
 
 # Integrantes
 
-  - Barbara Arriagada
-  - Catalina Duran
-  - Elsa Durán
-  - Gustavo Rosa 
+  - BÁRBARA ALEJANDRA ARRIAGADA AZÓCAR
+  - ELSA MAGDALENA DURÁN CATRIÁN
+  - CATALINA ISABEL DURAN CORI
+  - GUSTAVO EDUARDO ROSA ROSA
